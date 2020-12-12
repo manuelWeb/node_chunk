@@ -1,0 +1,17 @@
+{
+  "name": "prompt-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inquirer-filefolder-prompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-dialog": "0.0.8",
+    "inquirer-filefolder-prompt": "0.0.1",
+    "nw-programmatic-folder-select": "^1.0.4"
+  }
+}
